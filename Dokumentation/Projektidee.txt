@@ -16,4 +16,4 @@ aktiviern, sodass auch Filme angezeigt werden.
   Speziell aber soll es um Serien gehen.
   
 Ebenfalls können auch Ratings für Seirien auftauchen, die von Usern 
-für User sind, um Auf gute oder schlechte Serien hinzuweisen in form von z.B. Hot and Cold buttons.
+für User sind, um Auf gute oder schlechte Serien hinzuweisen in form von z.B. hot and cold Buttons.
