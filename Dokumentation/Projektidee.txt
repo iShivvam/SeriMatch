@@ -1,11 +1,19 @@
 
 SeriMatch
 
-SeriMatch soll eine Anwendung werden, die Mit Serien und ihren Eigenschaften eingespeist wird. User können diese dann Benutzen um anhand von Festgelegten Kriterien wie z.B. Genre, die zur auswahl stehen, sowie durch eingabe von eigenen Lieblingsserien oder aktuellen Serien, Serien zu finden, die ihnen Eventuell auch Gefallen könnten, bzw. nicht gefallen könnten. So kann man immer wenn man auf der suche nach neuen Serien ist, dort fündig werden. 
+SeriMatch soll eine Anwendung werden, die Mit Serien und ihren Eigenschaften eingespeist wird. 
+User können diese dann Benutzen um anhand von Festgelegten Kriterien wie z.B. Genre, die 
+zur auswahl stehen, sowie durch eingabe von eigenen Lieblingsserien oder aktuellen Serien, 
+Serien zu finden, die ihnen Eventuell auch Gefallen könnten, bzw. nicht gefallen könnten. 
+So kann man immer wenn man auf der suche nach neuen Serien ist, dort fündig werden. 
 
-in der Anwendung könnten ebenfalls um die Serie besser an die Person zu bringen, Kurzbeschreibungen sowie eventuell vorhandene Trailer enthalten, bzw zu den sachen Verlinken.
+in der Anwendung könnten ebenfalls um die Serie besser an die Person zu bringen, 
+Kurzbeschreibungen sowie eventuell vorhandene Trailer enthalten, bzw zu den sachen Verlinken.
 
-Um dieses Projekt fort zu führen, könnte man ebenfalls Filme mit einbringen, falls dies erwünscht ist. Durch einen weiteren Button könnte man diese Funktion aktiviern, sodass auch Filme angezeigt werden. 
+Um dieses Projekt fort zu führen, könnte man ebenfalls Filme mit einbringen, 
+falls dies erwünscht ist. Durch einen weiteren Button könnte man diese Funktion 
+aktiviern, sodass auch Filme angezeigt werden. 
   Speziell aber soll es um Serien gehen.
   
-Ebenfalls können auch Ratings für Seirien auftauchen, die von Usern für User sind, um Auf gute oder schlechte Serien hinzuweisen in form von z.B. Hot and Cold buttons.
+Ebenfalls können auch Ratings für Seirien auftauchen, die von Usern 
+für User sind, um Auf gute oder schlechte Serien hinzuweisen in form von z.B. Hot and Cold buttons.
