@@ -120,13 +120,13 @@ ________________________________________________________________________________
 
 Neue Projektidee: 
 
-Ein Kleines Endlos Highscore game, bei dem man als Charackter von rechts nach links läuft
+Ein Kleines Endlos Highscore game, bei dem man als Charakter von rechts nach links läuft
 und dabei auf hindernisse stößt. 
 Diese muss man entweder durch springen, ducken oder durchschlagen ausweichen.
-Im laufe des spiels wird der charackter immer und immer schneller, bis man nach 3 leben stirbt. 
+Im laufe des spiels wird der charakter immer und immer schneller, bis man nach 3 leben stirbt. 
 Je weiter man kommt, desto höher ist die punktzahl. 
 
-des weiteren soll es einen Boost Button geben, wodurch der Charackter enorm beschleunigt wird. 
+des weiteren soll es einen Boost Button geben, wodurch der Charakter enorm beschleunigt wird. 
 läuft man mit diesem button gedrückt, steigt auch die punktzahl schneller. 
 
-eventuell können unterwegs noch Powerups oder schilder eingesammelt werden. 
+eventuell können unterwegs noch Powerups oder Schilder eingesammelt werden. 
