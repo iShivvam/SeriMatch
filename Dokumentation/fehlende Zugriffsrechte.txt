@@ -8,10 +8,13 @@ hawmember
 HB97
 idleTask
 iKalypto
-  1/5  IsThisMyRealName
-  2/5  Jaacii
-  4/5  Jennow
-  5/5  joelkrauleidies
+
+  Die 5 Unter mir, auf die ich Zugriff haben muss:
+    1/5  IsThisMyRealName
+    2/5  Jaacii
+    4/5  Jennow
+    5/5  joelkrauleidies
+
 julhe
 KingBradley97
 korppikuolema
