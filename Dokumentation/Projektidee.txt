@@ -19,6 +19,28 @@ aktiviern, sodass auch Filme angezeigt werden.
 Ebenfalls können auch Ratings für Seirien auftauchen, die von Usern 
 für User sind, um Auf gute oder schlechte Serien hinzuweisen in form von z.B. hot and cold Buttons.
 
+
+
+_________________________________________________________________________________________________________
+
+Neue Projektidee: 
+
+Ein Kleines Endlos Highscore game, bei dem man als Charakter von rechts nach links läuft
+und dabei auf hindernisse stößt. 
+Diese muss man entweder durch springen, ducken oder durchschlagen ausweichen.
+Im laufe des spiels wird der charakter immer und immer schneller, bis man nach 3 leben stirbt. 
+Je weiter man kommt, desto höher ist die punktzahl. 
+
+des weiteren soll es einen Boost Button geben, wodurch der Charakter enorm beschleunigt wird. 
+läuft man mit diesem button gedrückt, steigt auch die punktzahl schneller. 
+
+eventuell können unterwegs noch Powerups oder Schilder eingesammelt werden. 
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+
 === Feedback Alpers, 2016-04-20 ===
 
 Leider beschreibt Ihr Vorschlag keine gute Projektidee im Sinne einer interaktiven Anwendung, weil es sich um eine Datenbankanwendung handelt. Das bedeutet, dass es bei der Umsetzung Ihres Projekts vorrangig darum geht, das NutzerInnen Texte (und ggf. Dateien) hochladen können und sich diese anzeigen lassen können. 
