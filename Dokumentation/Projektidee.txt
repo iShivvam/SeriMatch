@@ -69,7 +69,7 @@ Bitte erstellen Sie deshalb eine Projektbeschreibung, bei der Sie das folgende S
 (gelöscht, da im Lernraum für alle einsehbar)
 
 ===================================
-=== Feedback Alpers, 2016-04-20 ===
+=== Feedback Alpers, 2016-05-19 ===
 ===================================
 
 Bitte beachten Sie, dass Sie auch weiterhin eine Anwendung entwickeln sollen, die bestimmte Anforderungen im Bereich Interaktivität und Webbasierung erfüllen muss. Beides ist aber bislang nicht Teil Ihrer Beschreibung.
@@ -85,3 +85,15 @@ Wertung 2: Projektbeschreibung: gesamt: n / 10
 - Designaspekte: 0 
 - Voraussetzung bekannten Wissens: 0 
 (Bitte beachten Sie, dass das die Wertung zum aktuellen Zeitpunkt und keine abschließende Wertung Ihrer Beschreibung ist.)
+
+===================================
+=== Feedback Alpers, 2016-06-23 ===
+===================================
+
+Die einzigen Änderungen seit dem letzten Feedback sind die beiden folgenden Zeilen:
+
+"Wird man von einem Stein getroffen, so wird der spieler wieder erst einmal Verlangsamt."
+
+"Immer nach einer gewissen Anzahl an Punkten, oder Gelaufenen Meter, wird eine neue Schwierigkeit eingefügt, wie zb. Bewegende Steine."
+
+Damit haben Sie zwar nicht gar nichts am Projekt bearbeitet, aber Projektarbeit bedeutet jede Wochen wenigestens einmal ein paar Stunden am Projekt weiter zu arbeiten.
